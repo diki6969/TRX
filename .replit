@@ -1,0 +1,4 @@
+run = "php bot.php"
+
+entrypoint = "index.php"
+
